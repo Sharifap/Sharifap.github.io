@@ -7,6 +7,14 @@ author_profile: true
 
 ## Education
 
-- **Ph.D. in Computer Science**, University Name, Year
-- **M.S. in Computer Science**, University Name, Year
-- **B.S. in Computer Science**, University Name, Year
+- Ph.D. Electrical and Computer Engineering, Old Dominion University
+- M.S. Applied Physics, Electronics & Communication Engineering, University of Dhaka
+- B.S. Applied Physics, Electronics & Communication Engineering, University of Dhaka
+
+## Work Experience
+
+- Assistant Professor, University of Central Arkansas
+- Graduate Research Assistant, Virginia Modeling Analysis and Simulation Center
+- Graduate Student Intern, Accenture Cyber Fusion Center
+- Graduate Student Researcher, Accenture Technology Lab
+- Graduate Teaching Assistant, Old Dominion University
