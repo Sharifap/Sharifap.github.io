@@ -8,7 +8,7 @@ author_profile: true
 ## Education
 
 - Ph.D. Electrical and Computer Engineering, **Old Dominion University**
-- M.S. Applied Physics, Electronics & Communication Engineering, **University of Dhaka**
+- M.S. **Applied Physics**, Electronics & Communication Engineering, **University of Dhaka**
 - B.S. Applied Physics, Electronics & Communication Engineering, **University of Dhaka**
 
 ## Experience
