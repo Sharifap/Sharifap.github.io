@@ -17,6 +17,7 @@ Please check [Google Scholar](https://scholar.google.com/citations?hl=en&user=Sw
 ## Conference and Journals
 
 - Tahera, Mohoshin Ara, Sabbir Rahman, Shuvalaxmi Dass, **Sharif Ullah**, and Mahmoud Abouyessef. “BlocksecRT-DETR: Decentralized Privacy-Preserving and Token-Efficient Federated Transformer Learning for Secure Real-Time Object Detection in ITS.” *IEEE 103rd Vehicular Technology Conference (VTC2026-Spring)*, IEEE, 2026
+- Hasan, Mahmudul, **Sharif Ullah**, and Sachin Shetty. “Quantum-Enhanced Federated Learning via QAOA Feature and Gate Selection with Skew-Symmetric Lipschitz Dynamics.” In 2026 *International Conference on Computing, Networking and Communications (ICNC)*, pp. 1-7. IEEE, 2026.
 
 
 
