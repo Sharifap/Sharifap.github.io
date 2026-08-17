@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Sharif"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Md Sharif Ullah is a tenure-track Assistant Professor in the [Department of Computer Science and Engineering](https://uca.edu/cse/) at the [University of Central Arkansas](https://uca.edu/). Before that, he was a research assistant in the [Center for Secure and Intelligent Critical Systems](https://sics-c.org/) at [Virginia Modeling Analysis and Simulation Center (VMASC)](https://vmasc.org/). He received his Ph.D. in Electrical and Computer Engineering (ECE) from [Old Dominion University](https://www.odu.edu/), Norfolk, VA, under the guidance of [Dr. Sachin Shetty](https://ww2.odu.edu/~sshetty/). Dr. Ullah has actively pursued research in the fields of cybersecurity and cyber resiliency with an emphasis on cyber threat analysis with integrated machine learning and attack surface management. He co-authored multiple patents and publications regarding attack surface analysis. He has collaborative research experience with other academics and industry R&D, such as Accenture Technological Lab and the Electric Power Research Institute (EPRI). He was a winner of [EPRI’s first cybersecurity research challenge](https://iti.illinois.edu/news/winners-epri-challenge-announced-credc-summer-symposium).
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
+Research Interest
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
