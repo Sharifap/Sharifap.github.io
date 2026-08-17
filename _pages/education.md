@@ -1,8 +1,6 @@
 ---
-permalink: /
-title: "About Sharif"
+layout: archive
+title: "Education & Experience" 
+permalink: /education/ 
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
