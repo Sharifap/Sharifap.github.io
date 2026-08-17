@@ -31,7 +31,7 @@ Please check [Google Scholar](https://scholar.google.com/citations?hl=en&user=Sw
 - Hasan, Kamrul, Sachin Shetty, Amin Hassanzadeh, and **Sharif Ullah**. “Towards optimal cyber defense remediation in cyber physical systems by balancing operational resilience and strategic risk.” In MILCOM 2019-2019 *IEEE Military Communications Conference (MILCOM)*, pp. 1-8. IEEE, 2019.
 - **Ullah, Sharif**, Sachin Shetty, and Amin Hassanzadeh. ”Towards modeling attacker’s opportunity for improving cyber resilience in energy delivery systems.” In 2018 *Resilience Week (RWS)*, pp. 100-107. IEEE, 2018.
 - Glandon, Alexander, **Sharif Ullah**, Lasitha Vidyaratne, Mahbubul Alam, C. Xin, and Khan M. Iftekharuddin. ”Prediction of spatial spectrum in cognitive radio using cellular simultaneous recurrent networks.” In 2018 *International Joint Conference on Neural Networks (IJCNN)*, pp. 1-7. IEEE, 2018.
-- Xin, ChunSheng, **Sharif Ullah*, Min Song, Zhao Wu, Qiong Gu, and Huanqing Cui. ”Throughput oriented lightweight near-optimal rendezvous algorithm for cognitive radio networks.” *Computer Networks 137 (2018)*: 49-60.
+- Xin, ChunSheng, **Sharif Ullah**, Min Song, Zhao Wu, Qiong Gu, and Huanqing Cui. ”Throughput oriented lightweight near-optimal rendezvous algorithm for cognitive radio networks.” *Computer Networks 137 (2018)*: 49-60.
 
 
 
