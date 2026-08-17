@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Some of my selected publications are shared here. 
+Some of my **selected publications** are shared here. 
 Please check [Google Scholar](https://scholar.google.com/citations?hl=en&user=Swk4rxMAAAAJ&view_op=list_works&sortby=pubdate) to get the whole list of publications.
 
 
