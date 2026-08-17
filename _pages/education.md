@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education & Experience" 
+title: "" 
 permalink: /education/ 
 author_profile: true
 ---
