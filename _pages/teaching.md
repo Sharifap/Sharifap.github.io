@@ -10,9 +10,9 @@ Assistant Professor, Department of Computer Science & Engineering
 
 - CSEC 1300: Intro Computing
 - CSEC 3300: Introduction to Number Theory and Cryptography
-- CSEC 4335– Network Security
-- CSEC 4320– Ethical Hacking
-- CSCI 6397– Special Topics- Network Security/Ethical Hacking
+- CSEC 4335: Network Security
+- CSEC 4320: Ethical Hacking
+- CSCI 6397: Special Topics- Network Security/Ethical Hacking
 
 
 ## Old Dominion University
