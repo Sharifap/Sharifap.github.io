@@ -11,7 +11,7 @@ author_profile: true
 - M.S. Applied Physics, Electronics & Communication Engineering, University of Dhaka
 - B.S. Applied Physics, Electronics & Communication Engineering, University of Dhaka
 
-## Work Experience
+## Experience
 
 - Assistant Professor, University of Central Arkansas
 - Graduate Research Assistant, Virginia Modeling Analysis and Simulation Center
